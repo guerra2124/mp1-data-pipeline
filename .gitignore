@@ -1,5 +1,5 @@
 # Python cache
-_pycache_/
+__pycache__/
 *.py[cod]
 *.pyc
 
@@ -10,3 +10,5 @@ _pycache_/
 # OS
 .DS_Store
 Thumbs.db
+
+venv/
